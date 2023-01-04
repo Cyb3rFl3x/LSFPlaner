@@ -1,0 +1,8 @@
+django-admin
+django
+django-filter
+django-environ
+dj_database_url
+cryptography
+boto3
+markdown
